@@ -1,0 +1,32 @@
+body {
+    background-color:khaki;
+    display: block;
+    text-align: center;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+}
+
+div input {
+    height: 20px;
+    margin: 0px 10px;
+}
+#canvas {
+    background-color: white;
+    border: 1px solid black;
+}
+
+.user-container {
+    width: 600px;
+    height: 30px;
+    margin: 0 auto;
+    background-color: yellow;
+    border: 1px solid black;
+}
+
+.user-coord {
+    font-weight: bold;
+}
